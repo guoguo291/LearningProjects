@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LearningDemo</string>
+    <string name="tv_skip">跳过</string>
+    <string name="time_second">秒</string>
 </resources>
