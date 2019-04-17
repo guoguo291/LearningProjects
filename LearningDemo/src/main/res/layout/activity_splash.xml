@@ -16,5 +16,5 @@
         android:background="@drawable/shape_bg_tv_continue"
         android:textSize="16dp"
         android:textColor="@color/white"
-        android:text="@string/tv_continue"/>
+        android:text="@string/str_tv_skip"/>
 </FrameLayout>

@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">LearningDemo</string>
-    <string name="tv_skip">跳过</string>
-    <string name="time_second">秒</string>
+    <string name="str_tv_skip">跳过</string>
+    <string name="str_time_second">秒</string>
+    <string name="str_main_shanghai">上海</string>
+    <string name="str_main_beijing">北京</string>
+    <string name="str_main_hangzhou">杭州</string>
+    <string name="str_beijing">北京</string>
+    <string name="str_shenzhen">深圳</string>
 </resources>

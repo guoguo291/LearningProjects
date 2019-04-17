@@ -49,12 +49,12 @@ public class SplashActivity extends AppCompatActivity {
         timer = new CustomCountTimer(5, new CustomCountTimer.ICountDownHandler() {
             @Override
             public void onTicker(int time) {
-                tv_splash.setText(time+R.string.time_second);
+                tv_splash.setText(time+"秒");
             }
 
             @Override
             public void onFinish() {
-                tv_splash.setText(R.string.tv_skip);
+                tv_splash.setText("跳过");
             }
         });
         timer.start();
